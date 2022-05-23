@@ -1,3 +1,2 @@
-# Pacotes a serem instalados no binder:
 numpy
 bamboolib
